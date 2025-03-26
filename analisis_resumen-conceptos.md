@@ -1,5 +1,3 @@
-## Resumen del texto sobre Puesta en Escena Cinematográfica
-
 **I. Imágenes Cinematográficas:**
 
 * Polisémicas: múltiples interpretaciones, desde abiertas a unívocas.
