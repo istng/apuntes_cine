@@ -77,6 +77,3 @@
 * Espacio estático: movimiento interno, punto de vista fijo.
 * Espacio dinámico: movimiento externo, cámara en movimiento.
 * Funciones: descriptivas, expresivas, narrativas.
-
-
-Este resumen condensa la información principal, eliminando redundancias y manteniendo la estructura original.  Se facilita la comprensión general del tema a través de una visión global concisa.
